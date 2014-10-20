@@ -1,5 +1,5 @@
 //Seth Simon
-public class Nim
+public class GoodNim
 {
   public GoodNim()//constructor is empty because it doesn't need anything
   {
